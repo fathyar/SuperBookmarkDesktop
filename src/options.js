@@ -78,6 +78,30 @@
                     <div>
                         <h3>Changelog</h3>
                         <div class="changelogEntry">
+                            <b>v1.2.1</b>
+                            <ul>
+                                <li>
+                                    <div>Bug Fixes</div>
+                                    <ul>
+                                        <li>Fixed folder icons not being sorted alphabetically.</li>
+                                        <li>Fixed some cases of overflowing icon names.</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="changelogEntry">
+                            <b>v1.2.0</b>
+                            <ul>
+                                <li>
+                                    <div>Quality of Life</div>
+                                    <ul>
+                                        <li>Added basic keyboard support. Try pressing tab then using arrow keys.</li>
+                                        <li>Reddit Widget: Mark NSFW posts and change default sub to r/popular.</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="changelogEntry">
                             <b>v1.1.2</b>
                             <ul>
                                 <li>
